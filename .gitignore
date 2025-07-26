@@ -1,0 +1,48 @@
+# OS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual env
+.venv/
+venv/
+ENV/
+
+# VS Code
+.vscode/
+
+# Checkpoints/Models
+*.ckpt
+*.pth
+*.pt
+*.h5
+checkpoints/
+models/
+
+# Logs
+logs/
+*.log
+*.out
+runs/
+
+# Datasets
+*.csv
+*.tsv
+*.json
+*.npy
+*.npz
+*.pkl
+*.wav
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Other
+*.swp
+*.swo
+*.tmp
+*.bak
